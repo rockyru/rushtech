@@ -1,1 +1,2 @@
 ## Instructions
+``clone the repository
